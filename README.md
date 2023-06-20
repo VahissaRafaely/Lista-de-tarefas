@@ -29,3 +29,4 @@ O projeto foi desenvolvido seguindo boas práticas de organização do código, 
 Sinta-se à vontade para contribuir com melhorias neste projeto. Você pode abrir problemas (issues) para relatar bugs, sugerir novas funcionalidades ou enviar solicitações de pull requests com suas contribuições.
 
 ## ✅Projeto
+![Lista de Tarefas](https://github.com/VahissaRafaely/Lista-de-tarefas/blob/main/Lista%20de%20tarefas.gif)
